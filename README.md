@@ -1,4 +1,4 @@
-# msceng
+# ms ceng
 Gelar Master of Science in Engineering, atau lebih dikenal sebagai MSc Eng, adalah salah satu jenjang pendidikan pascasarjana yang paling dihormati dan diincar di dunia teknik. Program ini menawarkan kesempatan kepada para mahasiswa untuk mendalami ilmu teknik dengan lebih mendalam, mengasah keterampilan analitis, dan mempersiapkan mereka untuk peran kepemimpinan di industri.
 
 MSc Eng membuka pintu bagi para insinyur yang ingin melangkah lebih jauh dalam pengetahuan dan pemahaman mereka tentang disiplin ilmu teknik. Dalam program ini, mahasiswa akan terlibat dalam kuliah, seminar, dan penelitian yang berfokus pada bidang spesialisasi teknik yang mereka pilih. Teknik sipil, teknik listrik, teknik mesin, teknik kimia, dan berbagai disiplin ilmu teknik lainnya menjadi fokus studi mereka.
